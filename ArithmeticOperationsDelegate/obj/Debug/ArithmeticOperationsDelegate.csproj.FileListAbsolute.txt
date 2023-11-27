@@ -1,0 +1,7 @@
+C:\Users\Boyapati Sahaja\OneDrive\Desktop\Day16\ArithmeticOperationsDelegate\ArithmeticOperationsDelegate\bin\Debug\ArithmeticOperationsDelegate.exe.config
+C:\Users\Boyapati Sahaja\OneDrive\Desktop\Day16\ArithmeticOperationsDelegate\ArithmeticOperationsDelegate\bin\Debug\ArithmeticOperationsDelegate.exe
+C:\Users\Boyapati Sahaja\OneDrive\Desktop\Day16\ArithmeticOperationsDelegate\ArithmeticOperationsDelegate\bin\Debug\ArithmeticOperationsDelegate.pdb
+C:\Users\Boyapati Sahaja\OneDrive\Desktop\Day16\ArithmeticOperationsDelegate\ArithmeticOperationsDelegate\obj\Debug\ArithmeticOperationsDelegate.csproj.AssemblyReference.cache
+C:\Users\Boyapati Sahaja\OneDrive\Desktop\Day16\ArithmeticOperationsDelegate\ArithmeticOperationsDelegate\obj\Debug\ArithmeticOperationsDelegate.csproj.CoreCompileInputs.cache
+C:\Users\Boyapati Sahaja\OneDrive\Desktop\Day16\ArithmeticOperationsDelegate\ArithmeticOperationsDelegate\obj\Debug\ArithmeticOperationsDelegate.exe
+C:\Users\Boyapati Sahaja\OneDrive\Desktop\Day16\ArithmeticOperationsDelegate\ArithmeticOperationsDelegate\obj\Debug\ArithmeticOperationsDelegate.pdb
